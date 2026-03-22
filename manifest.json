@@ -1,0 +1,18 @@
+{
+  "name": "Dr.Shrooms Liverpool",
+  "short_name": "Dr.Shrooms",
+  "description": "Premium wild-harvested medicinal mushroom tinctures and plant extracts. UK's leading small-batch mushroom supplier.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a2e10",
+  "theme_color": "#2d4a1e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://image2url.com/r2/default/images/1774021480433-005a1fbb-5a30-4b59-9e13-1f24d53b7d23.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
